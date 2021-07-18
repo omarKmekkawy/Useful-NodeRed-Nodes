@@ -1,6 +1,8 @@
 # Useful-NodeRed-Nodes
 Useful NodeRed Nodes for RaspberryPi
 
+<img src="./Pictures/NodeRed.jpg" width="1050" height="720">
+
 ## Getting Started
 I have collected all useful nodes for NodeRed. You can install them using a single command.
 
