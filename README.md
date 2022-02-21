@@ -12,6 +12,10 @@ first we will need to get into the NodeRed installation folder, execute this com
 ```
 cd ~/.node-red
 ```
+This command above will not work if you are running DeitPi OS, the command down below will work for you instead of the prvious one:
+```
+cd /mnt/dietpi_userdata/node-red
+```
 After getting into the NodeRed installation folder, we can now install any nodes we want, just copy this command and execute it in the terminal
 
 ```
